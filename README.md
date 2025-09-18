@@ -28,10 +28,8 @@ This dashboard helps stakeholders make **data-driven decisions** by offering a c
 ## 🚀 How to Run This Project  
 
 1. **Download the repository**  
-   ```bash
-   git clone https://github.com/your-username/mobile-sales-dashboard.git
-   cd mobile-sales-dashboard
    ```
+      https://github.com/mohd-juned/mobile-sales-analysis-powerbi?tab=readme-ov-file
 
 2. **Open the Power BI file**  
    - Locate the `.pbix` file in the repository.  
